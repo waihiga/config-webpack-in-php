@@ -11,6 +11,6 @@
         <th>Action</th>
     </tr>
 </table>
-<script src="../src/index.js"></script>
+<script src="main.js"></script>
 </body>
 </html>
